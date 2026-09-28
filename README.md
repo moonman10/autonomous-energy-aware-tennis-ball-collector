@@ -1,4 +1,4 @@
-Autonomous Energy-Aware Tennis Ball Collector
+- Autonomous Energy-Aware Tennis Ball Collector -
 
 An in-development low-voltage autonomous mobile robot that collects tennis balls from a defined court or test area. The platform combines electric-vehicle power-system monitoring, embedded control, CAN communication, ROS 2 navigation, camera-based ball detection, and a custom mechanical collection mechanism.
 
