@@ -4,7 +4,7 @@ Preliminary Decisions:
 
  - Must sync with phone for easy start.
  - App-controlled zone selection, restricted areas, manual drive.
- - Must collect 75 tennis balls at a time.
+ - Must collect 100 tennis balls at a time.
  - Efficient collection system.
  - Must run smoothly on any tennis court surface.
  - 6 hours of battery life.
