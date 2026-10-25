@@ -12,8 +12,8 @@ Preliminary Decisions:
  - Be able to keep up with a hit rate of 10 balls every 30 seconds comfortably. 
  - Energy awareness, display time remaining until dead, avoid undervoltage event, return to bins automatically before an event occurs.
  - Weigh less than 30 LBS without tennis balls.
- - 25 In × 20 In × 42 In (h x w x l)
+ - 12 In × 20 In × 42 In (h x w x l)
  - Easy way to clean tennis ball fuzz.
  - Survive any possible hit from a tennis ball.
  - Schedule of when coaches will be using it on the app.
- - Utilize carbon fiber for body of the car 
+ - Utilize carbon fiber for light weight stability.
